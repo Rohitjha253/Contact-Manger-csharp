@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.exe
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.deps.json
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.runtimeconfig.json
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.dll
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.pdb
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.dll
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\obj\Debug\net6.0\refint\ContactManager.dll
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.pdb
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ContactManager\ContactManager\obj\Debug\net6.0\ref\ContactManager.dll
